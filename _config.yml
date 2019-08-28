@@ -21,13 +21,13 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 12
+  limit: 9
   exclude:
     archived: false
     forks: true
     projects:
     # - repo-name
-
+    
 social_media:
   # behance: your_username
   # dribbble: your_username
